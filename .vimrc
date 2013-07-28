@@ -8,6 +8,9 @@ set smarttab
 set autoindent
 set tw=80
 set scrolloff=5
+set t_Co=256
+set cinkeys-=0#
+syntax on
 
 " Cuttin' in line
 map j gj
