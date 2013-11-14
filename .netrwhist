@@ -1,7 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/Admin'
 let g:netrw_dirhist_2='/Users/graysonchao/bearfacts2gcalendar/.git'
 let g:netrw_dirhist_3='/Users/graysonchao/.ssh'
 let g:netrw_dirhist_4='/Users/graysonchao'
 let g:netrw_dirhist_5='/Users/graysonchao/bearfacts2gcalendar/.git'
+let g:netrw_dirhist_6='/Users/gchao/Projects/ee122/project2/.git'
+let g:netrw_dirhist_7='/Users/gchao/Projects/blog/source/_includes'
+let g:netrw_dirhist_8='/Users/gchao/Projects/blog/source'
